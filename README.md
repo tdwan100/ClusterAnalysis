@@ -1,5 +1,7 @@
 # K-Means Clustering for Student Grades
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This repository contains a Python implementation of the K-Means clustering algorithm for analyzing student grades. The K-Means algorithm is a popular unsupervised learning method used to partition data into K clusters based on similarity. In this case, we will cluster students based on their homework scores and final exam scores.
 
 ## Table of Contents
@@ -90,7 +92,3 @@ colors = ["royalblue", "forestgreen", "maroon"]
 ## Contributing
 
 Contributions to this project are welcome. Feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
